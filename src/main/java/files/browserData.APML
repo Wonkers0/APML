@@ -1,4 +1,7 @@
-<style>browserStyles.APSS</style>
-<title>Balls</title>
-<txt>The balls website</txt>
-<txt>Welcome to the balls website. There is nothing conspicuous here.</txt>
+[style]browserStyles.APSS[#style]
+[title]Balls Website (ULTRA edition)[#title]
+[txt]WELCOME to the BALLS WEBSITE![#txt]
+[txt]This is YOUR place for ALL THINGS BALLS.[#txt]
+[txt]For 1, BALLS are DELICIOUS![#txt]
+[txt]The balls in question are shown below:[#txt]
+[img]https://images.unsplash.com/photo-1620238259493-79ab814a426c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bWVhdCUyMGJhbGxzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60[#img]

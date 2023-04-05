@@ -1,0 +1,14 @@
+*() {
+    TextColor:black;
+    TextAlign:left;
+
+    MarginLeft:0;
+    MarginTop:0;
+    MarginRight:0;
+    MarginBottom:0;
+
+    PaddingLeft:0;
+    PaddingTop:0;
+    PaddingRight:0;
+    PaddingBottom:0;
+}
